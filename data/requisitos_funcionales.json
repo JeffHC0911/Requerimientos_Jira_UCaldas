@@ -1,27 +1,32 @@
 [
-    {
-      "descripcion": "Jira debe proporcionar una función que permita a los usuarios ver quién realizó la última actualización en un problema o proyecto.",
-      "tipo": "RF-01"
-    },
-    {
-      "descripcion": "Se debe implementar una funcionalidad de asistencia en línea (como tutoriales interactivos o una guía rápida) para nuevos usuarios.",
-      "tipo": "RF-02"
-    },
-    {
-      "descripcion": "Se deben proporcionar consejos contextuales en la interfaz de usuario para ayudar a los usuarios a entender las características clave de Jira.",
-      "tipo": "RF-03"
-    },
-    {
-      "descripcion": "Se debe desarrollar una función de búsqueda avanzada que permita a los usuarios buscar información de manera más efectiva, incluyendo opciones de filtrado avanzado.",
-      "tipo": "RF-04"
-    },
-    {
-      "descripcion": "Se debe mejorar la navegación en la aplicación mediante una estructura de menú más intuitiva y una barra de búsqueda visible.",
-      "tipo": "RF-05"
-    },
-    {
-      "descripcion": "Debe existir una sección de administración de usuarios más amigable e intuitiva, que permita la gestión de roles y permisos de manera más eficiente.",
-      "tipo": "RF-06"
-    }
-  ]
-  
+  {
+    "Seccion": "Registro de Última Actualización",
+    "Descripcion": "Jira debe proporcionar una función que permita a los usuarios ver quién realizó la última actualización de un problema o proyecto.",
+    "Tipo": "RF-01"
+  },
+  {
+    "Seccion": "Mejora de la Curva de Aprendizaje",
+    "Descripcion": "Se debe implementar una funcionalidad de asistencia en línea (como tutoriales interactivos o una guía rápida) para nuevos usuarios.",
+    "Tipo": "RF-02"
+  },
+  {
+    "Seccion": "Mejora de la Curva de Aprendizaje",
+    "Descripcion": "Se deben proporcionar consejos contextuales en la interfaz de usuario para ayudar a los usuarios a entender las características clave de Jira.",
+    "Tipo": "RF-03"
+  },
+  {
+    "Seccion": "Búsqueda y Navegación Eficientes",
+    "Descripcion": "Se debe desarrollar una función de búsqueda avanzada que permita a los usuarios buscar información de manera más efectiva, incluyendo opciones de filtrado avanzado.",
+    "Tipo": "RF-04"
+  },
+  {
+    "Seccion": "Búsqueda y Navegación Eficientes",
+    "Descripcion": "Se debe mejorar la navegación en la aplicación mediante una estructura de menú más intuitiva y una barra de búsqueda visible.",
+    "Tipo": "RF-05"
+  },
+  {
+    "Seccion": "Gestión de Usuarios, Roles y Permisos",
+    "Descripcion": "Debe existir una sección de administración de usuarios más amigable e intuitiva, que permita la gestión de roles y permisos de manera más eficiente.",
+    "Tipo": "RF-06"
+  }
+]
