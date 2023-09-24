@@ -1,0 +1,27 @@
+[
+  {
+    "Seccion": "Interfaz de Usuario Intuitiva",
+    "Descripcion": "La interfaz de usuario debe ser rediseñada para ser más intuitiva y amigable para los usuarios, lo que reducirá la curva de aprendizaje.",
+    "Tipo": "RNF-01"
+  },
+  {
+    "Seccion": "Seguridad y Privacidad",
+    "Descripcion": "La mejora en la gestión de usuarios debe garantizar la seguridad y la privacidad de los datos.",
+    "Tipo": "RNF-03"
+  },
+  {
+    "Seccion": "Seguridad y Privacidad",
+    "Descripcion": "La documentación debe estar protegida y ser accesible solo para usuarios autorizados.",
+    "Tipo": "RNF-04"
+  },
+  {
+    "Seccion": "Rendimiento y Mantenimiento",
+    "Descripcion": "La aplicación debe ser mejorada para un rendimiento óptimo, incluso con configuraciones personalizadas.",
+    "Tipo": "RNF-05"
+  },
+  {
+    "Seccion": "Rendimiento y Mantenimiento",
+    "Descripcion": "Debe implementarse una rutina de mantenimiento automático para eliminar datos y configuraciones obsoletas.",
+    "Tipo": "RNF-06"
+  }
+]
