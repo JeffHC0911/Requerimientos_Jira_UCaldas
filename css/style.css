@@ -115,6 +115,7 @@ tr:nth-child(odd) {
   border-radius: 20px;
   width: 90%; /* Ancho de la tabla al 100% del contenedor */
   align-items: center;
+  border-collapse: collapse;
 }
 
 .table-requirements-f th,
@@ -178,6 +179,15 @@ tr:nth-child(odd) {
   table {
     font-size: 1.3rem;
   }
+}
+
+@media only screen and (max-width: 800px){
+    .table{
+        font-size: 0.8rem;
+    }
+    .text{
+        font-size: 1.1rem;
+    }
 }
 
 footer {
