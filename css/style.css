@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;900&display=swap');
+
+
+html {
+  font-size: 92.5%;
+  scroll-behavior: smooth; }
+  @media only screen and (max-width: 75em) {
+    html {
+      font-size: 79%; } }
+  @media only screen and (max-width: 56.25em) {
+    html {
+      font-size: 86%; } }
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  margin:auto;
+  margin-bottom: 0;
+  box-sizing: border-box;
+  position: relative;
+  line-height: 1.5;
+  overflow-x: hidden;
+  overflow-y: scroll
+}
+
+nav {
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+    background-color: rgb(255, 255, 255) !important;
+  }
+
+.nav-item{
+    font-size: 1.8rem !important;
+}
+
+.list-survey{
+    font-size: 1.8rem;
+    margin: 10px;
+}
+
+.logo-nav{
+    width: 80px;
+  }
+
+.title{
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.info-jira, .home-observation, .info-observation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 50px;
+    font-size: 2rem;
+}
+
+.home-jira, .home-observation{
+    background-color: rgb(216, 216, 216);
+}    
+
+.home-survey{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 50px;
+
+}
+
+
+.photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.text{
+    margin: 10px;
+}
+
+.subtitle{
+    font-size: 2.3rem;
+    font-weight: bold;
+}
+
+@media only screen and (min-width: 800px){
+    .text{
+        width: 75%;
+    }
+    .home-jira{
+        height: 100vh;
+    }
+
+    .list-survey{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .nav-item{
+        font-size: 1.5rem !important;
+    }
+
+    .navbar-collapse{
+        justify-content: flex-end !important;
+    }
+
+}
