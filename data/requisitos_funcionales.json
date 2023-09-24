@@ -1,0 +1,27 @@
+[
+    {
+      "descripcion": "Jira debe proporcionar una función que permita a los usuarios ver quién realizó la última actualización en un problema o proyecto.",
+      "tipo": "RF-01"
+    },
+    {
+      "descripcion": "Se debe implementar una funcionalidad de asistencia en línea (como tutoriales interactivos o una guía rápida) para nuevos usuarios.",
+      "tipo": "RF-02"
+    },
+    {
+      "descripcion": "Se deben proporcionar consejos contextuales en la interfaz de usuario para ayudar a los usuarios a entender las características clave de Jira.",
+      "tipo": "RF-03"
+    },
+    {
+      "descripcion": "Se debe desarrollar una función de búsqueda avanzada que permita a los usuarios buscar información de manera más efectiva, incluyendo opciones de filtrado avanzado.",
+      "tipo": "RF-04"
+    },
+    {
+      "descripcion": "Se debe mejorar la navegación en la aplicación mediante una estructura de menú más intuitiva y una barra de búsqueda visible.",
+      "tipo": "RF-05"
+    },
+    {
+      "descripcion": "Debe existir una sección de administración de usuarios más amigable e intuitiva, que permita la gestión de roles y permisos de manera más eficiente.",
+      "tipo": "RF-06"
+    }
+  ]
+  
