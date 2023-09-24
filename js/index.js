@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Obtener la tabla de los requerimientos funciones y su cuerpo
     document.getElementById("tabla-requerimientos-f");
     const tRf = document.getElementById("requerimientos-f");
-    fetch("../data/requisitos_funcionales.json")
+    fetch("https://raw.githubusercontent.com/JeffHC0911/requerimientosjira.github.io/main/data/requisitos_funcionales.json")
     .then((response) => response.json())
     .then((data) => {
       // Iterar a través de las preguntas y agregar filas a la tabla
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
     //Obtenemos la tabla de los requerimientos no funcionales y su cuerpo
     document.getElementById("tabla-requerimientos-nf");
     const tRnf = document.getElementById("requerimientos-nf");
-    fetch("../data/requisitos_no_funcionales.json")
+    fetch("https://raw.githubusercontent.com/JeffHC0911/requerimientosjira.github.io/main/data/requisitos_no_funcionales.json")
     .then((response) => response.json())
     .then((data) => {
       // Iterar a través de las preguntas y agregar filas a la tabla
