@@ -1,0 +1,92 @@
+[
+    {
+        "pregunta": "¿Con qué enfoque estás utilizando Jira? ¿Académico, empresarial, personal?",
+        "respuesta_empresarial": "Estoy utilizando Jira en un entorno empresarial para gestionar proyectos y tareas relacionadas con el desarrollo de software.",
+        "respuesta_academico": "Utilizó Jira en un enfoque académico para llevar a cabo proyectos y colaboraciones en mi institución educativa.",
+        "respuesta_personal": "Mi uso de Jira es principalmente de carácter personal. Lo utilizo para gestionar mis proyectos personales y tareas diarias. Aunque no lo uso en un contexto académico o empresarial, he adaptado sus características para mi flujo de trabajo personal."
+    },
+    {
+        "pregunta": "¿Cómo describirías a la herramienta de Jira? ",
+        "respuesta_empresarial": "Jira es una herramienta versátil y altamente configurable para la gestión de proyectos y seguimiento de problemas. Ofrece una amplia gama de características personalizables que permiten a los equipos adaptarla a sus necesidades específicas.",
+        "respuesta_academico": "Jira es una herramienta que nos permite gestionar proyectos y asignar tareas de manera efectiva en un contexto aca",
+        "respuesta_personal": "Jira es una herramienta muy versátil y poderosa para la gestión de proyectos y el seguimiento de tareas. Lo describiría como una plataforma integral que permite la planificación, organización y colaboración en proyectos de cualquier tamaño. Su capacidad de personalización lo hace adecuado para una amplia variedad de casos de uso."
+    },
+    {
+        "pregunta": "¿Cómo ha sido tu experiencia al aprender a utilizar Jira como nuevo usuario? ¿Puedes compartir tus impresiones generales?",
+        "respuesta_empresarial": "Al principio, la curva de aprendizaje fue empinada, pero con el tiempo, he encontrado que Jira es una herramienta poderosa una vez que te acostumbras a su interfaz y flujo de trabajo. La personalización puede ser compleja, pero también es una ventaja.",
+        "respuesta_academico": "Como nuevo usuario en un contexto académico, mi experiencia con Jira ha sido desafiante al principio, pero con el tiempo he aprendido a aprovechar sus beneficios para la gestión de proyectos en la educación.",
+        "respuesta_personal": "Al principio, aprender a usar Jira como nuevo usuario fue un desafío. La plataforma ofrece muchas opciones y configuraciones, lo que puede ser abrumador al principio. Sin embargo, con el tiempo y la práctica, he logrado adaptarlo a mis necesidades y encontrar las características que son más relevantes para mí."
+    },
+    {
+        "pregunta": "¿Qué obstáculos has encontrado al navegar y buscar información relevante en Jira en general?",
+        "respuesta_empresarial": "La cantidad de datos y proyectos en Jira puede hacer que la navegación y la búsqueda sean desafiantes. En ocasiones, he tenido dificultades para encontrar información específica en proyectos más grandes.",
+        "respuesta_academico": "Los obstáculos al navegar y buscar información en Jira pueden retrasar la entrega de proyectos académicos y dificultar la colaboración entre estudiantes y profesores.",
+        "respuesta_personal": "Algunos obstáculos que he enfrentado al navegar y buscar información en Jira incluyen la sobrecarga de información, especialmente en instancias con muchos proyectos y tareas. La interfaz puede ser un poco complicada, y a veces me cuesta encontrar rápidamente lo que necesito."
+    },
+    {
+        "pregunta": "¿Has tenido acceso a documentación completa sobre la administración de Jira? ",
+        "respuesta_empresarial": "La documentación está disponible, pero he encontrado que a veces falta detalle en áreas específicas de administración.",
+        "respuesta_academico": "En el ámbito académico, la documentación completa sobre la administración de Jira es esencial para que tanto profesores como estudiantes aprovechen al máximo la herramienta.",
+        "respuesta_personal": "He tenido acceso a documentación sobre la administración de Jira, pero a veces he encontrado que la información está dispersa o es demasiado técnica. Creo que una documentación más estructurada y accesible sería beneficiosa, especialmente para usuarios nuevos."
+    },
+    {
+        "pregunta": "¿Crees que la documentación actual es suficiente o necesitas más recursos?",
+        "respuesta_empresarial": "Más recursos detallados serían útiles.",
+        "respuesta_academico": "Más recursos detallados serían útiles.",
+        "respuesta_personal": "La documentación actual de Jira es sólida, pero la adición de recursos adicionales, como tutoriales prácticos y una comunidad de usuarios activa, podría mejorar la experiencia de los usuarios, especialmente para aquellos que están menos familiarizados con la plataforma."
+    },
+    {
+        "pregunta": "¿Has enfrentado problemas de mantenimiento en Jira? ",
+        "respuesta_empresarial": "Sí, hemos experimentado problemas de mantenimiento debido a la acumulación de datos obsoletos.",
+        "respuesta_academico": "Sí hemos enfrentado algunos problemas",
+        "respuesta_personal": "No he enfrentado problemas graves de mantenimiento en Jira, pero sé que es importante realizar actualizaciones y limpieza periódicas para garantizar un rendimiento óptimo."
+    },
+    {
+        "pregunta": "¿Cómo crees que se podría mejorar el proceso de mantenimiento?",
+        "respuesta_empresarial": "Un proceso de limpieza automática o herramientas para gestionar datos obsoletos serían útiles",
+        "respuesta_academico": "Un proceso de limpieza automática o herramientas para gestionar datos obsoletos",
+        "respuesta_personal": "Para mejorar el proceso de mantenimiento, Jira podría ofrecer recordatorios automáticos para actualizaciones y proporcionar herramientas más intuitivas para la limpieza de datos obsoletos."
+    },
+    {
+        "pregunta": "¿Cómo han afectado los problemas y desafíos que has experimentado en Jira a la eficiencia y productividad de tu equipo o proyecto en general?",
+        "respuesta_empresarial": "Los desafíos han afectado la eficiencia en la búsqueda y la colaboración. En ocasiones, ha habido retrasos en la toma de decisiones debido a la dificultad para encontrar información relevante.",
+        "respuesta_academico": "La acumulación de datos obsoletos en Jira puede ser un problema en el contexto académico, y se podría mejorar mediante una limpieza regular de datos.",
+        "respuesta_personal": "Los problemas y desafíos que he enfrentado en Jira han afectado mi eficiencia y productividad en cierta medida. A veces, la complejidad de la plataforma puede ralentizar mi flujo de trabajo, pero con el tiempo, he aprendido a mitigar estos problemas."
+    },
+    {
+        "pregunta": "¿De qué manera han influido los problemas de navegación y búsqueda en la toma de decisiones y la colaboración dentro de tu equipo?",
+        "respuesta_empresarial": "Los problemas de navegación y búsqueda han ralentizado la toma de decisiones y han requerido más esfuerzo para encontrar y compartir información importante.",
+        "respuesta_academico": "Los problemas en Jira pueden afectar la eficiencia de los equipos de proyectos académicos y, en última instancia, la calidad del trabajo entregado.",
+        "respuesta_personal": "Los problemas de navegación y búsqueda en Jira pueden retrasar la toma de decisiones y dificultar la colaboración. La dificultad para encontrar información relevante puede llevar a malentendidos y retrasos en la ejecución de tareas."
+    },
+    {
+        "pregunta": "¿Has tenido problemas al buscar información específica en Jira debido a la acumulación de proyectos y problemas? ",
+        "respuesta_empresarial": " Sí, la acumulación de proyectos puede hacer que la búsqueda sea difícil.",
+        "respuesta_academico": "Los problemas de navegación y búsqueda pueden llevar a decisiones menos informadas y dificultar la colaboración entre estudiantes y profesores en proyectos académicos.",
+        "respuesta_personal": "Sí, he tenido problemas para buscar información específica en Jira debido a la acumulación de proyectos y problemas."
+    },
+    {
+        "pregunta": "¿Cómo podrían mejorarse las funciones de búsqueda?",
+        "respuesta_empresarial": "Mejorar la función de búsqueda con filtros más avanzados y opciones de etiquetado sería beneficioso.",
+        "respuesta_academico": "La búsqueda de información específica en Jira puede ser complicada en un entorno académico, y podría mejorarse con filtros de búsqueda más precisos.",
+        "respuesta_personal": "Para mejorar las funciones de búsqueda, sería útil tener filtros más avanzados y la capacidad de realizar búsquedas contextuales."
+    },
+    {
+        "pregunta": "¿Puedes ofrecer recomendaciones generales para simplificar la gestión de usuarios, roles y permisos en Jira?",
+        "respuesta_empresarial": "Simplificar la gestión de usuarios y permisos mediante una interfaz más intuitiva y opciones predeterminadas sería útil para usuarios no técnicos.",
+        "respuesta_academico": "Para simplificar la gestión de usuarios, roles y permisos en Jira en un contexto académico, se pueden crear perfiles predefinidos para profesores, estudiantes y otros roles comunes.",
+        "respuesta_personal": "Recomiendo simplificar la gestión de usuarios, roles y permisos mediante una estructura clara y jerárquica. Esto facilitaría la asignación y seguimiento de permisos en proyectos y tareas."
+    },
+    {
+        "pregunta": "¿Tienes alguna sugerencia o comentario adicional sobre los desafíos que has enfrentado al utilizar Jira?",
+        "respuesta_empresarial": "Sería beneficioso recibir notificaciones más claras sobre actualizaciones y cambios en proyectos para mantener a los usuarios informados.",
+        "respuesta_academico": "Además de la gestión de proyectos, Jira podría ser utilizado para llevar un registro de actividades y logros académicos individuales en el futuro.",
+        "respuesta_personal": "Una sugerencia adicional sería mejorar la usabilidad de la interfaz de usuario, especialmente para nuevos usuarios. También sería beneficioso proporcionar más plantillas y flujos de trabajo predefinidos para casos comunes."
+    },
+    {
+        "pregunta": "¿Cómo crees que las futuras actualizaciones de Jira podrían abordar de manera más efectiva los problemas y desafíos que mencionaste?",
+        "respuesta_empresarial": "Futuras actualizaciones podrían centrarse en la simplificación de la interfaz, mejoras en la búsqueda y una documentación más detallada para hacer que Jira sea más accesible y eficiente.",
+        "respuesta_academico": "Las futuras actualizaciones de Jira en el ámbito académico podrían centrarse en integraciones con sistemas de gestión del aprendizaje y herramientas de evaluación, así como en una interfaz más intuitiva para estudiantes y profesores.",
+        "respuesta_personal": "Creo que las futuras actualizaciones de Jira podrían centrarse en simplificar la experiencia del usuario, mejorar la búsqueda y ofrecer una documentación más accesible. También podrían considerar ofrecer más recursos de capacitación y soporte para ayudar a los usuarios a aprovechar al máximo la plataforma."
+    }
+]
