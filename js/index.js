@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const tbody = document.getElementById("respuestas");
 
   // Cargar el archivo JSON de preguntas
-  fetch("../data/preguntas.json")
+  fetch("https://raw.githubusercontent.com/JeffHC0911/requerimientosjira.github.io/main/data/preguntas.json")
     .then((response) => response.json())
     .then((data) => {
       // Iterar a través de las preguntas y agregar filas a la tabla
