@@ -139,4 +139,8 @@ tr:nth-child(odd) {
         justify-content: flex-end !important;
     }
 
+    table{
+        font-size: 1.3rem;
+    }
+
 }
